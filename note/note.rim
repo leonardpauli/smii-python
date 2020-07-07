@@ -1,0 +1,13 @@
+# note
+' smii-python
+	created by Leonard Pauli, 7 jul 2020
+
+# quick start
+
+- (using python v 3.7)
+- git clone $REPO smii-python && cd $_
+- // py -m venv env
+- source env/bin/activate
+- // pip3.7 install requests pandas jupyter && pip3.7 freeze > requirements.txt
+- pip3.7 install -r requirements.txt && source env/bin/activate
+- jupyter notebook .
