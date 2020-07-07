@@ -3,6 +3,10 @@
 
 ---
 
+### see `note/note.rim` for techical "readme"
+
+---
+
 long-term goal:
 
 - develop data and big data ingestion infrastructure
@@ -20,10 +24,6 @@ long-term goal:
 	- and in the end, reaching "the long tail", where everyone is honest and "influencers", products/services succeed because of their true value, and intrusive marketing is a thing of the past
 
 (or something like that)
-
----
-
-## see `note/note.rim` for techical "readme"
 
 ---
 

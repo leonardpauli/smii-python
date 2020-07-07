@@ -9,11 +9,11 @@
 	- setup new repo
 		- use python 3.7
 		- use venv (w requirements.txt)
+	- add jupyter notebook // for experiments + tmp dev
 	NEXT:
+	- add tests
 	- make module for local in-memmory data-store
 	- add models
-	- add tests
-	- add jupyter notebook // for experiments + tmp dev
 	- add http_fetch_do // that uses /data/cache if exists
 		- read from /data/cache
 			- fetch/load methods here
